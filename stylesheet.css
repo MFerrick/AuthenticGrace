@@ -1,0 +1,76 @@
+body{
+    margin:0;
+    font-family: Laila;
+}
+
+.container{
+    width:1170px;
+    height: 140px;
+    padding: 0 15px;
+    margin: 0 auto;
+    background-color:black;
+    color: white;
+}
+
+.container h1{
+    font-size: 55px;
+    letter-spacing: 5px;
+    padding-top: 50px;
+    padding-left:360px;
+}
+
+.btn-wrapper{
+    width:1170px;
+    padding: 10 15px;
+    margin:0 auto;
+    align-items: left;
+    background-color: white;
+    font-size:20px;
+    padding-top: 10px;
+    letter-spacing: 1px;
+}
+
+.btn{
+    display: inline-block;
+    border-radius: 4px;
+    opacity: 1;
+    padding: 12px 24px;
+    color: white;
+    background-color:black;
+}
+
+.btn:hover{
+    opacity: 0.7;
+}
+
+.arrivals{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.tops{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.bottoms{
+    padding: 5px;
+    border: 1px solid black;
+}
+.dresses{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.outerwear{
+    padding: 5px;
+    border: 1px solid black;
+}
+.accessories{
+    padding: 5px;
+    border: 1px solid black;
+}
+.sale{
+    padding: 5px;
+    border: 1px solid black;
+}
